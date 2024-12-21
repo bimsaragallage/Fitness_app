@@ -1,0 +1,53 @@
+Body Part,Type of Muscle,Workout
+Chest,Upper Chest,Incline dumbbell press
+Chest,Upper Chest,Incline cable crossovers
+Chest,Upper Chest,Incline dumbbell flyes
+Chest,Lower Chest,Decline dumbbell press
+Chest,Lower Chest,Decline cable crossovers
+Chest,Lower Chest,Decline dumbbell flyes
+Chest,Chest Isolation,Chest flyes
+Chest,Chest Isolation,Cable crossovers
+Chest,Chest Isolation,Dumbbell flyes
+Back,Upper,Pull-ups
+Back,Upper,Barbell rows
+Back,Upper,Dumbbell rows
+Back,Upper,Seated cable rows
+Back,Lower,Bent-over rows
+Back,Lower,Hyperextensions
+Back,Lower,Bird dog
+Arms,Biceps,Barbell curls
+Arms,Biceps,Dumbbell curls
+Arms,Biceps,Preacher curls
+Arms,Biceps,Hammer curls
+Arms,Biceps,Concentration curls
+Arms,Triceps,Close-grip bench press
+Arms,Triceps,Overhead triceps extensions
+Arms,Triceps,Triceps pushdowns
+Arms,Triceps,Skull crushers
+Arms,Triceps,Triceps dips
+Legs,Quadriceps,Barbell squats
+Legs,Quadriceps,Leg press
+Legs,Quadriceps,Leg extensions
+Legs,Hamstrings,Romanian deadlifts
+Legs,Hamstrings,Leg curls
+Legs,Glutes,Barbell hip thrusts
+Legs,Glutes,Donkey kicks
+Legs,Calves,Standing calf raises
+Legs,Calves,Seated calf raises
+Shoulders,Anterior,Dumbbell front raises
+Shoulders,Anterior,Military press
+Shoulders,Lateral,Lateral raises
+Shoulders,Posterior,Bent-over lateral raises
+Shoulders,Posterior,Face pulls
+Abs,Upper,Crunches
+Abs,Upper,Leg raises
+Abs,Middle,Bicycle crunches
+Abs,Middle,Russian twists
+Abs,Lower,Hanging leg raises
+Abs,Lower,Plank
+Forearms,Wrist Flexors,Wrist curl
+Forearms,Wrist Extensors,Wrist extension
+Forearms,Grip Strength,Plate pinch
+Forearms,Grip Strength,Towel pull-up
+Forearms,Grip Strength,Fat grip dumbbell curl
+Forearms,Grip Strength,Hammer curl

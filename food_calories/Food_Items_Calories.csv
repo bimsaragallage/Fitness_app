@@ -1,0 +1,181 @@
+,Food Item,Weight/Volume(g/ml),Calories,Food Group
+0,Rice (Brown),100,353.7,Cereals and Millets
+1,Rice Parboiled,100,351.5,Cereals and Millets
+2,Rice Raw milled,100,356.3,Cereals and Millets
+3,Wheat whole,100,321.9,Cereals and Millets
+4,Wheat flour,100,320.2,Cereals and Millets
+5,Bulgar wheat,100,341.7,Cereals and Millets
+6,Refined flour,100,351.8,Cereals and Millets
+7,Ragi,100,320.7,Cereals and Millets
+8,Rice flakes,100,353.7,Cereals and Millets
+9,Wheat semolina,100,333.6,Cereals and Millets
+10,Wheat vermicelli,100,332.6,Cereals and Millets
+11,Barley,100,315.7,Cereals and Millets
+12,Bajra,100,347.9,Cereals and Millets
+13,Jowar,100,334.1,Cereals and Millets
+14,Quinoa,100,328.3,Cereals and Millets
+15,"Amaranth seed, Black",100,356.1,Cereals and Millets
+16,"Bengal gram, dal",100,329.1,Grain Legumes
+17,"Bengal gram, whole",100,287,Grain Legumes
+18,Black gram whole,100,291.3,Grain Legumes
+19,"Cow pea, brown",100,320.2,Grain Legumes
+20,"Cow pea, white",100,320.2,Grain Legumes
+21,Green gram dal,100,325.7,Grain Legumes
+22,"Green gram, whole",100,293.7,Grain Legumes
+23,"Horse gram, whole",100,329.5,Grain Legumes
+24,Lentil dal,100,322.4,Grain Legumes
+25,"Peas, dry",100,303.2,Grain Legumes
+26,"Rajma, red",100,299.2,Grain Legumes
+27,"Red gram, dal",100,330.7,Grain Legumes
+28,"Red gram, whole",100,273.9,Grain Legumes
+29,"Soya bean, brown",100,381.4,Grain Legumes
+30,Amaranth leaves,100,30.5,Green Leafy Vegetables
+31,Beet greens,100,34.6,Green Leafy Vegetables
+32,Brussels sprouts,100,44.2,Green Leafy Vegetables
+33,Cabbage Chinese,100,17.9,Green Leafy Vegetables
+34,"Cabbage, green",100,21.5,Green Leafy Vegetables
+35,Cauliflower leaves,100,35.4,Green Leafy Vegetables
+36,"Colocasia leaves, green",100,43.4,Green Leafy Vegetables
+37,Drumstick leaves,100,67.3,Green Leafy Vegetables
+38,Fenugreek leaves,100,34.4,Green Leafy Vegetables
+39,Lettuce,100,21.7,Green Leafy Vegetables
+40,Mustard leaves,100,30.3,Green Leafy Vegetables
+41,Parsley,100,72.8,Green Leafy Vegetables
+42,Radish leaves,100,26.05,Green Leafy Vegetables
+43,Spinach,100,24.3,Green Leafy Vegetables
+44,Ash gourd,100,17.4,Other Vegetables
+45,"Bamboo shoot, tender",100,16.2,Other Vegetables
+46,Bitter gourd,100,20.7,Other Vegetables
+47,Bottle gourd,100,10.9,Other Vegetables
+48,Brinjal,100,25.3,Other Vegetables
+49,Broad beans,100,29.3,Other Vegetables
+50,Capsicum,100,16.2,Other Vegetables
+51,Cauliflower,100,22.9,Other Vegetables
+52,Celery stalk,100,16.4,Other Vegetables
+53,Cho-Cho-Marrow,100,18.8,Other Vegetables
+54,Cluster beans,100,40.1,Other Vegetables
+55,Cucumber,100,19.5,Other Vegetables
+56,French beans,100,24.3,Other Vegetables
+57,Knol-Khol,100,16,Other Vegetables
+58,Kovai,100,19.1,Other Vegetables
+59,Ladies finger,100,27.4,Other Vegetables
+60,Parwar,100,24.1,Other Vegetables
+61,"Peas,fresh",100,81.2,Other Vegetables
+62,Plantain stem,100,39.4,Other Vegetables
+63,Pumpkin,100,23.1,Other Vegetables
+64,Ridge gourd,100,13.1,Other Vegetables
+65,Snake gourd,100,12.4,Other Vegetables
+66,Tomato,100,20.7,Other Vegetables
+67,"Zucchini, green",100,20,Other Vegetables
+68,Beetroot,100,35.6,Roots And Tubers
+69,Carrot,100,33.2,Roots And Tubers
+70,Potato brown,100,69.7,Roots And Tubers
+71,"Radish,white",100,32.2,Roots And Tubers
+72,"Sweet potato,brown",100,108.9,Roots And Tubers
+73,Tapioca,100,79.8,Roots And Tubers
+74,Yam,100,84.3,Roots And Tubers
+75,Apple,100,62.3,Fruits
+76,"Apricot, dried",100,31.5,Fruits
+77,Avocado,100,144.3,Fruits
+78,Banana,100,110.6,Fruits
+79,Blackberry fruit,100,54.2,Fruits
+80,Cherries red,100,59.7,Fruits
+81,Blackcurrants,100,54.2,Fruits
+82,Custard apple,100,98.9,Fruits
+83,"Dates, dry",100,320.2,Fruits
+84,Fig,100,81.5,Fruits
+85,Grapes,100,60.7,Fruits
+86,Guava,100,32.2,Fruits
+87,Jack fruit,100,72.1,Fruits
+88,Sweet lime,100,27.2,Fruits
+89,Litchi,100,53.7,Fruits
+90,Mango,100,41.8,Fruits
+91,Musk melon,100,23.1,Fruits
+92,Orange,100,37.2,Fruits
+93,Papaya,100,23.9,Fruits
+94,Peach,100,40.1,Fruits
+95,Pear,100,37.5,Fruits
+96,Pineapple,100,43,Fruits
+97,Plum,100,56.8,Fruits
+98,Pomegranate,100,54.7,Fruits
+99,"Raisins, black",100,305.6,Fruits
+100,Sapota,100,73.3,Fruits
+101,Strawberry,100,24.6,Fruits
+102,Watermelon,100,20.3,Fruits
+103,Wood apple,100,78.1,Fruits
+104,Green chillies,100,45.6,Spices
+105,Coriander seeds,100,268.8,Spices
+106,Curry leaves,100,63.5,Spices
+107,Garlic,100,123.8,Spices
+108,"Ginger, fresh",100,54.9,Spices
+109,Mint leaves,100,37,Spices
+110,Onion,100,48,Spices
+111,Asafoetida,100,331.5,Spices
+112,"Cardamom, green",100,255,Spices
+113,Red chillies,100,236.6,Spices
+114,Cloves,100,186.6,Spices
+115,Cumin seeds,100,304.4,Spices
+116,Black cumin (Kalonji),100,345,Spices
+117,Fenugreek seeds,100,234.9,Spices
+118,Nutmeg,100,463.6,Spices
+119,Basil seeds,100,22,Spices
+120,Anise seeds,100,153.3,Spices
+121,"Pepper, black",100,217.4,Spices
+122,Poppy seeds,100,422.5,Spices
+123,Turmeric powder,100,280.5,Spices
+124,Almond,100,609.2,Nuts And Oil Seeds
+125,Arecanut dried,100,350.6,Nuts And Oil Seeds
+126,Cashew nut,100,582.6,Nuts And Oil Seeds
+127,Coconut dry,100,624,Nuts And Oil Seeds
+128,Coconut fresh,100,408.9,Nuts And Oil Seeds
+129,Gingelly seeds,100,507.6,Nuts And Oil Seeds
+130,Ground nut,100,520,Nuts And Oil Seeds
+131,Linseeds,100,443.8,Nuts And Oil Seeds
+132,Pine seed,100,594.1,Nuts And Oil Seeds
+133,Pistachio nuts,100,539.4,Nuts And Oil Seeds
+134,Sunflower seeds,100,586.2,Nuts And Oil Seeds
+135,Walnut,100,671,Nuts And Oil Seeds
+136,Flax seeds,100,534,Nuts And Oil Seeds
+137,Chia seeds,100,486,Nuts And Oil Seeds
+138,Jaggery cane,100,353.7,Sugars
+139,"Sugarcane, juice",100,57.8,Sugars
+140,"Milk, whole, buffalo",100,107.3,Milk And Milk Products
+141,"Milk, whole, cow",100,72.8,Milk And Milk Products
+142,Paneer,100,257.8,Milk And Milk Products
+143,Khoa,100,315.9,Milk And Milk Products
+144,Soy milk,100,54,Milk And Milk Products
+145,Tofu,100,76,Milk And Milk Products
+146,"Egg, whole, raw",100,134.7,Egg And Animal Meat
+147,"Egg white, raw",100,44.6,Egg And Animal Meat
+148,"Egg, yolk, raw",100,296.8,Egg And Animal Meat
+149,"Chicken, leg, skinless",100,383.6,Egg And Animal Meat
+150,"Chicken, thigh, skinless",100,199.8,Egg And Animal Meat
+151,"Chicken, breast, skinless",100,168.2,Egg And Animal Meat
+152,"Chicken, liver",100,123.8,Egg And Animal Meat
+153,Goat,100,188,Egg And Animal Meat
+154,"Sheep, shoulder",100,200.7,Egg And Animal Meat
+155,"Sheep, chops",100,118.5,Egg And Animal Meat
+156,"Beef, chops",100,139.8,Egg And Animal Meat
+157,"Pork, shoulder",100,237.3,Egg And Animal Meat
+158,"Pork, chops",100,178.7,Egg And Animal Meat
+159,Cat fish,100,108.9,Sea Food
+160,Mackerel,100,101,Sea Food
+161,Matha,100,92.9,Sea Food
+162,Pomfret,100,123,Sea Food
+163,Salmon,100,172.3,Sea Food
+164,Sardine,100,152.2,Sea Food
+165,Shark,100,95.1,Sea Food
+166,Silver fish,100,132.6,Sea Food
+167,Catla,100,94.1,Sea Food
+168,Tuna,100,112.3,Sea Food
+169,Crab,100,81.9,Sea Food
+170,Lobster,100,89.6,Sea Food
+171,Oyster,100,60.2,Sea Food
+172,Tiger prawns,100,65.2,Sea Food
+173,Clam,100,58,Sea Food
+174,Squid,100,80,Sea Food
+175,Ghee,100,920,Fats And Oils
+176,Butter,100,717,Fats And Oils
+177,Oil,100,900,Fats And Oils
+178,Cheese,100,264.5,Fats And Oils
+179,Coconut water,100,15.2,Miscellaneous Food
